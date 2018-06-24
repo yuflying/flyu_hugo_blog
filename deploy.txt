@@ -1,1 +1,8 @@
-ja9NG3CQ4y
+cd public
+git init
+git remote add origin https://github.com/coderzh/coderzh.github.io.git
+git add -A
+git commit -m "first commit"
+git push -u origin master
+
+访问：https://yuflying.github.io/iblog/
